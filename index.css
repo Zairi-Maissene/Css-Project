@@ -39,7 +39,7 @@ height:3rem;
 }
 .menu ul li:hover{
     background-color:black;
-    background-image: url("D:/Coding/Web Dev/TP/atelier css/img/rings.png");
+    background-image: url("img/rings.png");
     background-repeat: no-repeat;
     background-position:right;
 }
